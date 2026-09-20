@@ -1,0 +1,18 @@
+save push comands
+
+git init [initializer the current floder as a git repository]
+
+git status [check status]
+
+
+git add.[move all changed /untracked files from the working diroctory]
+
+git commit -m "write msg "[save the stages changes into your local repository]
+
+git branch -M main [chance master to main ]
+
+git remote add origin git repository URL
+
+git remote -v
+
+git log

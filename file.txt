@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Hello this is malik
-=======
+
 Hello this is shareef
->>>>>>> 7f949cc7c5e7674a8ba4e576f6aa764e3c017bab
+

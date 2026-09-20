@@ -1,11 +1,7 @@
 Hello everyone,
 This is Abdulla
 
-<<<<<<< HEAD
 Hello this is malik
 
 Hello this is shareef
-=======
-Hello this is Shareef
->>>>>>> a40c6dd1738805de3f172f6340ccd648c9c698c0
 
